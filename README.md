@@ -1,2 +1,2 @@
 # calcurat
-Comparador de precios de productos
+Comparador de precios de productos version 1.0
